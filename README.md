@@ -1,5 +1,7 @@
 FundMe DApp is a decentralized fundraising application built with React for the front end and Hardhat for the smart contract on the Ethereum blockchain.
 
+## See it live at:
+(https://react-fund-me-dapp.vercel.app/)
 # Features
 1. Decentralized Fundraising: Easily create and join transparent fundraising campaigns on the Ethereum blockchain.
 
